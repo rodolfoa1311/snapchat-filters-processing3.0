@@ -1,4 +1,4 @@
-# snapchat-like-heart-filters-processing3.0
+# snapchat-like-heart-filter-processing3.0
 a program that puts a heart on your chest like snapchat filters using processing 3.0, 
 java and the openCV library https://github.com/atduskgreg/opencv-processing
 is written over the opencv example LiveCamTest.
